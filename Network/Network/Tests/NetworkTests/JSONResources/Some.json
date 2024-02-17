@@ -1,0 +1,38 @@
+{
+    "credentials": [
+        {
+            "object_title": "Title",
+            "object_is_valid": true,
+            "object_description": "Description",
+            "object_price": 101
+        },
+        {
+            "object_titl": "Title2",
+            "object_is_valid": true,
+            "object_description": "Description2",
+            "object_price": 102
+        },
+        {
+            "object_title": 100,
+            "object_is_valid": true,
+            "object_description": "Description",
+            "object_price": 103
+        },
+        {
+            "object_title": "Title3",
+            "object_is_valid": true,
+            "object_description": true,
+            "object_price": 104
+        },
+        {
+            "object_is_valid": true,
+            "object_description": "Description",
+            "object_price": 105
+        },
+        {
+            "object_title": "Title6",
+            "object_is_valid": true,
+            "object_price": 106
+        }
+    ]
+}
